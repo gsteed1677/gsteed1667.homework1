@@ -1,3 +1,0 @@
-Horiseon website comfigurement.  I updated the title to Leaders in Digital to reflect the tech/sales nature of the site.  I also made sure to fix the link to search-engine to link correctly to the bottom part of the page.  The images have been upated to have alt information that corresponds with the images in the pictures.  The semantics and structure of the page have been made clearer and should help understand what part of the page is where.
-
-For the css file, I consolidated many of the classes that had the same propities (example - benefits-all used to have 3 different classes).
